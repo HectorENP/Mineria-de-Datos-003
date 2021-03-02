@@ -6,9 +6,12 @@
 
 [Ejercicios Basicos de Python](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Python_1860264.ipynb)
 
+[Practica de Limpieza de Datos](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Python_1860264.ipynb)
+
 ## FASE II
 
 
 ## FASE II
+
 
 ## FASE III
