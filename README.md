@@ -8,7 +8,7 @@
 
 [Practica de Limpieza de Datos](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo11.ipynb)
 
-[Primera entrega del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo11.ipynb)
+[Primera entrega del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Avance1_PIA_Equipo11.ipynb)
 
 ## FASE II
 
