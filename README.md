@@ -13,6 +13,8 @@
 ## FASE II
 [Presentacion de tecnicas](https://github.com/sebascuriel18/MineriaDatos/blob/main/Presentacion_%7BDeteccion-de-outliers%7D_%7BEquipo.11%7D.pdf)
 
+[MiniExamenes de tecnicas](https://github.com/sebascuriel18/MineriaDatos/blob/main/Calificacion_Deteccion-de-outliers_Equipo_11.pdf)
+
 ## FASE II
 
 
