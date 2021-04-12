@@ -17,6 +17,8 @@
 
 [Mapa Mental II](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/MapaMental_2_1860264.pdf)
 
+[Practica II: Visualización de datos](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo11.ipynb)
+
 ## FASE II
 
 
