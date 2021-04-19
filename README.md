@@ -21,7 +21,7 @@
 
 [Segunda entrega del PIA](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo_003_11.ipynb)
 
-[Segunda entrega del PIA (corregido)](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo_003_11.ipynb)
+[Segunda entrega del PIA (corregido)](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_2.0_II_Grupo_003_11.ipynb)
 
 ## FASE II
 
